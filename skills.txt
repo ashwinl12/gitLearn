@@ -4,4 +4,8 @@ Full Stack web development
 Machine learning
 Android Development
 
+To-do list :
+Robotics
+VR Technology
+
 Thanks :)
